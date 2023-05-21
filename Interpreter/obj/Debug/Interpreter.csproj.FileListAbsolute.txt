@@ -1,0 +1,10 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
